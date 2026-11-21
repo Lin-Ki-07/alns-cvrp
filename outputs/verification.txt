@@ -1,0 +1,5 @@
+PASS: customer coverage, capacity, operator input isolation, removal distance increments.
+PASS: reproducibility at seed 42 / 2000 iterations.
+PASS: 10 seeds x 300 iterations, feasibility and monotonic best cost.
+Python: 3.13.5 | packaged by Anaconda, Inc. | (main, Jun 12 2025, 16:37:03) [MSC v.1929 64 bit (AMD64)]
+Matplotlib: 3.10.0
